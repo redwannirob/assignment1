@@ -1,0 +1,91 @@
+body{
+    
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+}
+h1{
+    font-size: 50px;
+}
+h4{
+    color: gray;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 800px;
+    height: 700px;
+}
+.name-highlight{
+    color: goldenrod;
+}
+.text-highlight{
+    color: maroon;
+}
+.hire-button{
+    text-decoration: none;
+    background-color: goldenrod;
+    background-image: linear-gradient(45deg, goldenrod, gold);
+    padding: 10px 20px;
+    color: honeydew;
+    border-radius: 10px;
+    
+}
+.cv-button{
+    text-decoration: none;
+    color: white;
+    background-color: lightsalmon;
+    background-image: linear-gradient(360deg, lightsalmon, tomato);
+    padding: 15px 20px;
+    border-radius: 5px;
+
+}
+#same-hight{
+    height: 700px;
+}
+.latest-section{
+    background: rgb(241, 229, 229);
+    height: 900px;
+    margin-top: 420px
+}
+.latest-section h2{
+    text-align: center;
+}
+.latest-area{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.latest-area img{
+   
+    width: 400px;
+    height: 300px;
+}
+#g{
+    background: cornsilk;
+    border-radius: 15px;
+    padding-top: 40px;
+}
+#a{
+    background: cornsilk;
+    border-radius: 15px;
+    padding-top: 40px;
+}
+#m{
+    background: cornsilk;
+    border-radius: 15px;
+    padding-top: 40px;
+}
