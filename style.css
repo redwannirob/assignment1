@@ -44,6 +44,10 @@ h3{
     border-radius: 10px;
     
 }
+.hire-button:hover{
+    box-shadow: 0 0 11px rgba(42, 41, 41, 0.9); 
+
+}
 .cv-button{
     text-decoration: none;
     color: white;
@@ -52,6 +56,9 @@ h3{
     padding: 15px 20px;
     border-radius: 5px;
 
+}
+.cv-button:hover{
+    box-shadow: 0 0 11px rgba(42, 41, 41, 0.9); 
 }
 #same-hight{
     height: 700px;
@@ -128,6 +135,9 @@ height: 225px;
     margin-bottom: 100px;
     padding: 10px 20px;
     
+}
+.button-move:hover{
+    box-shadow: 0 0 11px rgba(42, 41, 41, 0.9); 
 }
 .button-move a{
     text-decoration: none;
